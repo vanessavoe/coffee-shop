@@ -3,6 +3,7 @@ Feature: Serve coffee
   Customers should be able to 
   buy coffee at all times
 
+@coffee
   Scenario: Buy last coffee - on feature branch
     Given there are 1 coffees left in the machine
     And I have deposited 1$
