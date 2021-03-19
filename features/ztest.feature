@@ -1,4 +1,4 @@
-Feature:ztest
+Feature: changes from git
   <Some interesting description here>
 
   Scenario:
