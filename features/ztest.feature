@@ -1,5 +1,5 @@
 Feature: changes from git
   <Some interesting description here>
 
-  Scenario:
+  Scenario: Change from git
     <Some interesting scenario steps here>
